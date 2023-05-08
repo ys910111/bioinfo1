@@ -4,3 +4,7 @@
   - Guided_Mission_1.ipynb
   - 1st_plot.png
   - 2nd_plot.png
+
+### 2주차. Guided_Mission_2
+  - Guided_Mission_2.ipynb
+  - plot.png
