@@ -19,4 +19,4 @@
   - Mirlet7g.pdf
 
 ### 자유주제 프로젝트
-  - 고민 중🧐
+  - 주제 : Binding site predictor using machine learning model
