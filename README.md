@@ -18,5 +18,24 @@
   - Mirlet7g.bedgraph
   - Mirlet7g.pdf
 
-### 자유주제 프로젝트
-  - 주제 : Binding site predictor using machine learning model
+### Free_Mission
+  - Data
+    - S3.xls
+    - refMrna.fa
+  - Outputs
+    - final_seq_U.txt
+    - total_sequences.csv
+    - gn_results.pkl
+    - lr_results.pkl
+    - mlp_results.pkl
+    - rf_results.pkl
+  - Codes
+    - Preprocessing.ipynb
+    - Modelling.ipynb
+    - Plotting.ipynb
+  - Plots
+    - auroc.png
+    - barplot_metrics.png
+    - feature_importance.png
+    - logo_Base_probability.eps
+    - logo_Information_content.eps
